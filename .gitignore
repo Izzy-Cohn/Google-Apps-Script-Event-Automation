@@ -1,0 +1,44 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Runtime data
+*.tmp
+*.cache
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# VSCode settings
+.vscode/
+Event Setup Calendar Project.code-workspace
+
+# ESLint configuration (if not needed in Git)
+eslint.config.mjs
+
+# Git configuration files (should not ignore .gitignore itself)
+.git/
+
+# npm debug file
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# Editor directories and files (optional)
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Files specific to your project that should not be versioned
+Scrap.js
+Scrap2.js
+
+# Ignore package-lock.json if you want to allow updating dependencies
+# Uncomment the following line if you don't want to track package-lock.json
+# package-lock.json
