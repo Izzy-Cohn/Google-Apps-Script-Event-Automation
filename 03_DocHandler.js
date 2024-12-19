@@ -51,7 +51,7 @@ class DocHandler {
     // Format table rows and cells
     for (let i = 0; i < table.getNumRows(); i++) {
       const row = table.getRow(i);
-      const bgColor = (i % 2 === 0) ? '#b4e0d2' : '#ffffff';
+      const bgColor = (i % 2 === 0) ? '#7a98c2' : '#ffffff';
       for (let j = 0; j < row.getNumCells(); j++) {
         const cell = row.getCell(j);
         cell.setFontSize(10).setFontFamily('Calibri');
