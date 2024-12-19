@@ -74,7 +74,7 @@ Ensure your Apps Script project has the following OAuth scopes (defined in `apps
 - Handles Google Sheet data, including formatting and updating event details.
 
 ### `03_DocHandler.js`
-- Generates Google Docs from a template with event-specific data.
+- Generates Google Docs from a [template](https://docs.google.com/document/d/1uJF8tZYU6Y4X30s_-pMbNCxFDKUAGs3emTiKj7vbfAs/copy) with event-specific data.
 
 ### `04_CalendarHandler.js`
 - Manages Google Calendar events, including creation, updates, and deletions.
