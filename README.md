@@ -4,6 +4,12 @@
 
 This project is a comprehensive Google Apps Script solution for managing school events. It integrates Google Sheets, Forms, Calendar, and Docs to automate event creation, approval, and documentation. The system streamlines the process of creating events, generating related documentation, and updating stakeholders.
 
+IMPORTANT NOTES: 
+
+- This project is designed for educational purposes and may require customization for specific use cases.
+- For development and testing, I highly recommend using [clasp (Command Line Apps Script Projects)](https://developers.google.com/apps-script/guides/clasp) to manage the project files. Google Developers Codelab has a helpful tutorial for setting up and using clasp, which can be found [here](https://codelabs.developers.google.com/codelabs/clasp/#0).
+- It is recommended that the file naming convention using numbers (e.g., `01_EventManager.js`) be preserved because of how the Apps Script runtime reads and executes files.
+
 ---
 
 ## Features
